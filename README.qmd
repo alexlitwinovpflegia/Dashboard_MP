@@ -1,0 +1,14 @@
+---
+title: "README"
+format: gfm
+---
+# Github Actions Test
+
+
+```{r}
+Sys.time() |>
+  format('%d/%m/Y %H:%M')
+```
+
+This file was rendered at '{r} current_time'
+
